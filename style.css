@@ -3,3 +3,25 @@ body {
     height: 50%;
     width: 100%;
 }
+
+h1 {
+    background-color:rgb(255, 230, 221);
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+
+form {
+    margin: auto;
+    position: relative;
+    top: 100px;
+    left: 600px;
+}
